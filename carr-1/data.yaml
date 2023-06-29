@@ -1,0 +1,12 @@
+names:
+- '0'
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: carr-bbznw
+  url: https://universe.roboflow.com/car-dmlox/carr-bbznw/dataset/1
+  version: 1
+  workspace: car-dmlox
+test: /content/drive/MyDrive/ColabNotebooks/Github/DL_Proj/carr-1/test.txt
+train: /content/drive/MyDrive/ColabNotebooks/Github/DL_Proj/carr-1/train.txt
+val: /content/drive/MyDrive/ColabNotebooks/Github/DL_Proj/carr-1/test.txt
